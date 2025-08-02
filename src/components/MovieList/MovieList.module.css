@@ -1,0 +1,19 @@
+/* MovieList.module.css */
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  list-style: none;
+  padding: 0;
+}
+
+.item {
+  width: 150px;
+  text-align: center;
+}
+
+.poster {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 8px;
+}
